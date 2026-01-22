@@ -516,4 +516,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this library helpful, please give it a ⭐ on GitHub!
 
-For issues or questions, please [open an issue](https://github.com/yourusername/js-powerkit/issues) on GitHub.
+For issues or questions, please [open an issue](https://github.com/NiketaJain/js-powerkit/issues) on GitHub.
