@@ -507,7 +507,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Changelog
 
-### [1.0.0] - 2025-01-22
+### [1.0.1] - 2026-01-22
 - Initial release with comprehensive string, array, and object utilities
 - Full test coverage
 - ES6+ module support
