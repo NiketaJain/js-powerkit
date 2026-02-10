@@ -44,7 +44,13 @@
     "browser",
     "developer-tools",
     "productivity",
-    "modern-javascript"
+    "modern-javascript",
+    "frontend",
+    "backend",
+    "fullstack",
+    "web-development",
+    "es2015",
+    "es2020"
   ],
   "author": "Niketa Jain",
   "license": "MIT",
